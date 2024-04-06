@@ -1,5 +1,5 @@
 {
-  "name": "@cryptic/mempool.js",
+  "name": "cryptic-mempool",
   "version": "2.3.0",
   "description": "NPM package module for Mempool APIs.",
   "main": "lib/index.js",
